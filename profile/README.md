@@ -13,7 +13,7 @@ We thrive in creating unblocked experiences for you to enjoy whenever. Work, sch
 
 ## Devlog Board 👀
 
-- We are working on a new vids panel! Be ready for more content than you can imagine!
+- We are working on a new leader board feature.
 - We are working on some big games. Keep your eyes peeled!
 
 ---
